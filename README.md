@@ -3,7 +3,7 @@
 
 
 ## to run
-```
+
 -запустить тесты
 ```
 make -f Makefile2 tests
