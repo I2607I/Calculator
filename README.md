@@ -1,5 +1,5 @@
 # Calculator
-- Stack `C` `Qt5`
+- Stack `C` `Qt6`
 ## to run
 
 - запустить тесты
